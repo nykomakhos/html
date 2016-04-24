@@ -4,6 +4,7 @@
     <list default="true" id="49dfc1ca-96e3-4ebe-9fb4-0e0c13c70924" name="Default" comment="" />
     <ignored path="hw4.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +28,8 @@
       <file leaf-file-name="task1.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/task1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45614034" vertical-offset="0" max-vertical-offset="728">
-              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.5068226" vertical-offset="0" max-vertical-offset="754">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -240,8 +241,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/task1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45614034" vertical-offset="0" max-vertical-offset="728">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.5068226" vertical-offset="0" max-vertical-offset="754">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
           <folding />
         </state>
       </provider>
