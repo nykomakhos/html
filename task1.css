@@ -1,0 +1,21 @@
+div.line {
+    margin: auto;
+}
+div.menu {
+    font-family: Economica bold;
+    font-size: 18px;
+    width: 900px;
+    background-color: blueviolet;
+    color: #ffffff;
+    height:36px;
+    padding-left: 70px;
+}
+div.item {
+    display: inline-block;
+    padding: 10px;
+}
+div.item:hover {
+    background-color:wheat;
+    color:grey;
+}
+
